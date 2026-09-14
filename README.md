@@ -22,9 +22,7 @@ the quotes it was fitted to).
 | File | Contents |
 |---|---|
 | `report.pdf` | Full write-up: proofs, math, results, references (26 pages) |
-| `report_source.tex` | LaTeX source of the report |
 | `local_volatility_surface.ipynb` | Fully executed notebook, code + all figures |
-| `figures/` | The 11 plots (PNG), also embedded in the notebook and PDF |
 
 ## Requirements to re-run
 
